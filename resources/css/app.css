@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* set default font */
+@import url('https://rsms.me/inter/inter.css');
